@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CS2001_Group_Project_Testing/src"/>
+	<classpathentry kind="output" path="CS2001_Group_Project_Testing/bin"/>
+</classpath>
